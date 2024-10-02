@@ -52,7 +52,7 @@ printf("enter the temp in C");
 scanf("%fC",&C);
  
  F = (C * 1.8) + 32;
- printf("Temperature in F is %fF",F);
+ printf("Temperature in F is %f",F);
 
     return 0;
 }
